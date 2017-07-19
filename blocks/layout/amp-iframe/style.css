@@ -1,0 +1,14 @@
+/**
+ * ----------------------------------------------------------------------------
+ * #.# Frontend CSS
+ *
+ * BLOCK: gb-amp-iframe block CSS for the editor & front end.
+ * ----------------------------------------------------------------------------
+ */
+
+.wp-block-gb-amp-iframe {
+    color: #000000;
+    background: gold;
+    border: 0.2rem solid goldenrod;
+    padding: 2rem;
+}

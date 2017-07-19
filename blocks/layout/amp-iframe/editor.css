@@ -1,0 +1,15 @@
+
+/**
+ * ----------------------------------------------------------------------------
+ * #.# Editor CSS
+ *
+ * BLOCK: gb-amp-iframe block CSS for the editor.
+ * ----------------------------------------------------------------------------
+ */
+
+.wp-block-gb-amp-iframe {
+    color: #000000;
+    background: mistyrose;
+    border: 0.2rem solid red;
+    padding: 2rem;
+}
